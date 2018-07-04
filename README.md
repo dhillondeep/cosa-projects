@@ -1,4 +1,4 @@
-# cosa-projects
+# Projects using Cosa
 
 Cosa is an object-oriented platform for Arduino. It replaces the Arduino and Wiring library with a large set of integrated classes that support the full range of AVR/ATmega/ATtiny internal hardware modules. To learn more about Cosa, check out [Cosa project repository](https://github.com/mikaelpatel/Cosa).
 
